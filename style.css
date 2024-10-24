@@ -338,3 +338,59 @@
     border: none;
  }
 
+
+ 
+
+/* Trainings styles */
+
+
+.img-container{
+    max-width: 1440px;
+    /* width: 100%; */
+    margin: 0 auto;
+    background: linear-gradient(180deg, #111 0%, rgba(0, 0, 0, 0.888) 100%);
+}
+
+.img-description  {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.training-head{
+    /* text-align: center; */
+    font-size: 48px;
+    font-weight: 900;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+    
+    /* margin-top: 200px; */
+}
+
+.training-p{
+    /* text-align: center; */
+    color: rgba(255, 255, 255, 0.50);
+    margin-bottom: 58px;
+}
+
+.item img{
+    width: 100%;
+    height: 100%;
+}
+
+
+.img-item1{
+    display: grid;
+    grid-template-columns: 400px 500px 400px;
+    /* grid-template-columns: repeat(3, 1fr, 2fr, 1fr); */
+}
+
+.img-item2{
+    display: grid;
+    grid-template-columns: 500px 400px 400px;
+}
+
+
+
+.img-1 img{
+    background-image: #06FFD280;
+}

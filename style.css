@@ -195,3 +195,85 @@
     color: var(--Text-1, #FAFAF9);
     background: none;
 }
+
+
+
+
+
+  /* change-container-styles */
+
+  .change-container{
+    max-width: 1440px;
+    margin: 0 auto;
+    margin-top: 100px;
+
+  }
+
+  .change-items{
+    /* margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center; */
+  }
+
+  .change-head{
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* align-items: center; */
+    margin-bottom: 14px;
+    color: #FFF;
+    font-size: 50px;
+    font-weight: 800;
+    text-align: center;
+    /* background: black; */
+    border: none;
+
+  }
+
+  .change-para{
+    margin-bottom: 14px;
+    color: rgba(255, 255, 255, 0.50);
+    font-size: 15px;
+    font-weight: 800;
+    text-align: center;
+    /* background: black; */
+  }
+ 
+  .change-description{
+    
+    margin-bottom: 58px;
+  }
+
+  .change-img{
+    display: flex;
+    text-align: center;
+  }
+
+  .change-img img{
+    border-radius: 100px;
+    margin-bottom: 30px;
+    margin-right: 10px;
+  }
+
+  .change-img-part{
+        margin-right: 90px;
+        margin: 0 auto;
+  }
+ 
+ /* .change-head-para{
+    text-align: center;
+ } */
+
+ .head-items{
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 6px;
+    color: #FFFFFF;
+ }
+
+ .para-items{
+    font-size: 14px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.50);
+ }
+

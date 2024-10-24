@@ -68,3 +68,130 @@
     color: #FFFFFF;
 }
 
+
+
+
+ /* banner-section */
+
+ .banner-section{
+    max-width: 1440px;
+    margin: 0 auto;
+    margin-top: 20px;
+ }
+
+ .banner-container{
+    /* position: ; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+
+ 
+
+
+
+
+ .banner-head span{
+    font-style: italic;
+    /* font-size: 120px; */
+ }
+
+ .banner-head{
+    margin-bottom: 28px;
+    font-size: 78px;
+    color: #FFFFFF;
+ }
+ .banner-head span{
+    font-style: ;
+    font-family: "Miama", sans-serif;
+ }
+
+ .banner-para{
+    margin-bottom: 28px;
+ }
+
+  .banner-btn-items{
+    margin-right: 256px;
+    margin: 0 auto;
+ }
+
+ .join{
+    padding: 21px 40px;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 42px;
+    background: #E6533C;
+    border: 2px solid white;
+    color: #FFFFFF;
+    border: none;
+    margin-right: 14px;
+ }
+ .download{
+    padding: 16px 40px;
+    border-radius: 42px;
+    font-size: 18px;
+    font-weight: 600;
+    border: 2px solid white;
+    color: #FFFFFF;
+    background: black;
+ }
+
+
+
+
+
+
+.video-p{
+    color: rgba(255, 255, 255, 0.50);
+}
+
+.video{
+    padding: 21px 40px;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 12px;
+    background: #3030308A;
+    border: 2px solid ;
+    color: #FFFFFF;
+    border: none;
+    margin-left: 150px;
+    border-radius: 12px;
+}
+
+.video-head{
+    margin: 0 auto;
+    margin-left: -45px;
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: 900;
+    color: var(--Text-1, #FAFAF9);
+    background: none;
+}
+
+.ban-img{
+  
+    margin-right: -318px;
+}
+
+.banner-img2-btn{
+    padding: 21px 40px;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 12px;
+    background: #3030308A;
+    border: 2px solid ;
+    color: #FFFFFF;
+    border: none;
+    margin-left: 150px;
+    
+}
+
+.banner-img-head{
+    margin: 0 auto;
+    margin-left: -50px;
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: 900;
+    color: var(--Text-1, #FAFAF9);
+    background: none;
+}
